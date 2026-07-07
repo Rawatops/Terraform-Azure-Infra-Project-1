@@ -138,7 +138,7 @@ terraform destroy
 > Replace the image below with your own architecture diagram.
 
 <p align="center">
-<img src="images/architecture.png" width="100%">
+<img src="images/architecture1.png" width="100%">
 </p>
 
 ---
